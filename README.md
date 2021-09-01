@@ -2,6 +2,7 @@ This repo is all about my personal portfolio projects and feel free to browse th
 
 
 # COVID Portfolio Project Scripts.sql
+
 Using sql to get insights including death counts, death percentage and percent population infected, under the COVID pandemic around the world.
 
 # Data Cleaning Project Scripts.sql
